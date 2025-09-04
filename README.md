@@ -1,0 +1,2 @@
+# spectrwm-adjustment
+spectrwm-adjustment
